@@ -11,7 +11,7 @@ int main(void)
 {
 
 	long x, maxf;
-	lomg numbr = 612852475143;
+	long numbr = 612852475143;
 	double square = sqrt(number);
 
 	for (x = 1; x <= square; x++)
