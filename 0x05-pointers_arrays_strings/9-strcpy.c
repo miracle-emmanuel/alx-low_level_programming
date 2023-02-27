@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** strcpy string
+/**
+ * strcpy string
  * dest destination
  * src source
  * return:pointer
