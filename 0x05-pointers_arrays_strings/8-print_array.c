@@ -4,7 +4,7 @@
 /**
  * print array - prints element of array
  * @a array of integers
- * @n: number of election of the array 
+ * @n: number of election of the array
  * Return: void
  */
 
